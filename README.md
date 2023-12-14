@@ -1,14 +1,15 @@
-# NOME-DO-REPOSITORIO
+# CIÊNCIA POLÍTICA
 
-Repositório para Gestão do Conhecimento de NOME-DO-REPOSITORIO.
+Repositório para Gestão do Conhecimento em Ciência Política.
 
 ## Fontes
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 1 | Livro |**NORBERTO BOBBIO<br>NICOLA MATTEUCCI<br>GIANFRANCO PASQUINO**<br>[Livro - Dicionário de Política](./livro-BOBBIO-MATTEUCCI-PASQUINO-1998-dicionario-de-politica/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brEDcJVDFWxtFlkZP?e=2IqQZb) | - |
+| 2 | Livro |**PAULO BONAVIDES**<br>[Livro - Ciência Política](./livro-PAULO-BONAVIDES-2000-ciencia-politica/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brEG9KH64c55mmDNt?e=Z3jNva) | - |
+| 3 | Livro |**REINALDO DIAS**<br>[Livro - Ciência Política](./livro-REINALDO-DIAS-2013-ciencia-politica/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brHV8NPmc-UV6Ircm?e=tKFzcV) | - |
+| 4 | Livro |**LENIO LUIZ STRECK<br>JOSÉ LUIS BOLZAN DE MORAIS**<br>[Livro - Ciência Política & Teoria do Estado](./livro-STRECK-MORAIS-2014-ciencia-politica-teoria-e-estado/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brD6xnkmwY7vlJsMm?e=du60AW) | - |
 
 ## Relação das Competências Desenvolvidas
 
@@ -16,7 +17,7 @@ O estudo de todas as fontes desse repositório permitiram o desenvolvimento das 
 
 ### Competência Acadêmicas | Categoria | Descrição breve da competência
 
-- **Código**: CPT-A-**SIGLA-NOME-DO-REPOSITORIO**-XXX-A001
+- **Código**: CPT-A-CIPOL-XXX-A001
 
 |**Verbo**|**Objeto**|**Condição**|**Critério**|
 |:---|:---|:---|:---|
