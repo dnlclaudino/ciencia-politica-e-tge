@@ -25,14 +25,55 @@
 
 <center><b>SUMÁRIO</b></center>
 
-(...)
+<!-- TOC updateonsave:false-->
 
-## Tópico 01
+- [O Estado e a Constituição](#o-estado-e-a-constituição)
+- [O Processo Constitucional Na Inglaterra](#o-processo-constitucional-na-inglaterra)
+- [A Revolução Americana](#a-revolução-americana)
+    - [Os "Federalist Papers"](#os-federalist-papers)
+- [A Revolução Francesa De 1789](#a-revolução-francesa-de-1789)
+- [As Declarações De Direitos](#as-declarações-de-direitos)
+- [As Primeiras Declaração e os seus Conteúdos](#as-primeiras-declaração-e-os-seus-conteúdos)
+    - [A Evolução Das Declarações De Direitos](#a-evolução-das-declarações-de-direitos)
+- [Estado De Direito](#estado-de-direito)
+- [O Estado Liberal](#o-estado-liberal)
+    - [O Estado Liberal e a Democracia](#o-estado-liberal-e-a-democracia)
+- [O Estado Do Bem-Estar Social (Welfare State) Ou Estado Social](#o-estado-do-bem-estar-social-welfare-state-ou-estado-social)
+    - [Do Estado Liberal Ao Estado Social](#do-estado-liberal-ao-estado-social)
+    - [O Estado Brasileiro Como Estado Do Bem-Estar Social](#o-estado-brasileiro-como-estado-do-bem-estar-social)
+- [As Constituições Brasileiras](#as-constituições-brasileiras)
+- [Referências Bibliográficas](#referências-bibliográficas)
 
-(...)
+<!-- /TOC -->(...)
 
-## Tópico 01
+## O Estado e a Constituição
 
-(...)
+## O Processo Constitucional Na Inglaterra
+
+## A Revolução Americana
+
+### Os "Federalist Papers"
+
+## A Revolução Francesa De 1789
+
+## As Declarações De Direitos
+
+## As Primeiras Declaração e os seus Conteúdos
+
+### A Evolução Das Declarações De Direitos
+
+## Estado De Direito
+
+## O Estado Liberal
+
+### O Estado Liberal e a Democracia
+
+## O Estado Do Bem-Estar Social (Welfare State) Ou Estado Social
+
+### Do Estado Liberal Ao Estado Social
+
+### O Estado Brasileiro Como Estado Do Bem-Estar Social
+
+## As Constituições Brasileiras
 
 ## Referências Bibliográficas
