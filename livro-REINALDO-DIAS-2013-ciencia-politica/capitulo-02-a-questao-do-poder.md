@@ -25,13 +25,69 @@
 
 <center><b>SUMÁRIO</b></center>
 
+<!-- TOC updateonsave:false-->
+
+- [O conceito de poder](#o-conceito-de-poder)
+- [As principais fontes do poder](#as-principais-fontes-do-poder)
+- [O poder político](#o-poder-político)
+- [Maquiavel e o poder político](#maquiavel-e-o-poder-político)
+- [A dominacáo política](#a-dominacáo-política)
+- [A questáo da legitimidade do poder político](#a-questáo-da-legitimidade-do-poder-político)
+- [Legalidade e legitimidade](#legalidade-e-legitimidade)
+- [As elites e o poder](#as-elites-e-o-poder)
+    - [Teoria das elites](#teoria-das-elites)
+    - [A teoria de Mosca](#a-teoria-de-mosca)
+    - [A teoria de Pareto](#a-teoria-de-pareto)
+    - [Wright Milis](#wright-milis)
+- [Referências Bibliográficas](#referências-bibliográficas)
+
+<!-- /TOC -->
+
+## O conceito de poder
+
 (...)
 
-## Tópico 01
+## As principais fontes do poder
 
 (...)
 
-## Tópico 01
+## O poder político
+
+(...)
+
+## Maquiavel e o poder político
+
+(...)
+
+## A dominacáo política
+
+(...)
+
+## A questáo da legitimidade do poder político
+
+(...)
+
+## Legalidade e legitimidade
+
+(...)
+
+## As elites e o poder
+
+(...)
+
+### Teoria das elites
+
+(...)
+
+### A teoria de Mosca
+
+(...)
+
+### A teoria de Pareto
+
+(...)
+
+### Wright Milis
 
 (...)
 

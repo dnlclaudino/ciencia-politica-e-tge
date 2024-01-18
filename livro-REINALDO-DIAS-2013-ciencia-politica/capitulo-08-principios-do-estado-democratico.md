@@ -25,14 +25,32 @@
 
 <center><b>SUMÁRIO</b></center>
 
-(...)
+<!-- TOC updateonsave:false-->
 
-## Tópico 01
+- [A Ideia De Democracia](#a-ideia-de-democracia)
+- [A Representacáo Política](#a-representacáo-política)
+- [As Eleições](#as-eleições)
+- [Função Das Eleições](#função-das-eleições)
+- [O Sufrágio](#o-sufrágio)
+- [Os Sistemas Eleitorais](#os-sistemas-eleitorais)
+- [O Sistema Eleitoral Como Subsistema Do Sistema Político](#o-sistema-eleitoral-como-subsistema-do-sistema-político)
+- [O Comportamento Eleitoral](#o-comportamento-eleitoral)
+- [A Crise Da Representacáo Política](#a-crise-da-representacáo-política)
+- [Tocquevillee A Democracia Na América](#tocquevillee-a-democracia-na-américa)
+- [Referências Bibliográficas](#referências-bibliográficas)
 
-(...)
+<!-- /TOC -->(...)
 
-## Tópico 01
+## A Ideia De Democracia
+## A Representacáo Política
+## As Eleições
+## Função Das Eleições
+## O Sufrágio
+## Os Sistemas Eleitorais
+## O Sistema Eleitoral Como Subsistema Do Sistema Político
+## O Comportamento Eleitoral
+## A Crise Da Representacáo Política
+## Tocquevillee A Democracia Na América
 
-(...)
 
 ## Referências Bibliográficas
