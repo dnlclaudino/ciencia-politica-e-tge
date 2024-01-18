@@ -33,18 +33,18 @@ DIAS, Reinaldo. Ciencia Política. 2.ed. Sao Paulo: Atlas, 2013.
 
 ## Sumário
 
-### Capítulo 01 - Introdução à ciência política
-### Capítulo 02 - A questão do poder
-### Capítulo 03 - O conceito de Estado
-### Capítulo 04 - Finalidades e elementos do Estado
-### Capítulo 05 - Soberania estatal
-### Capítulo 06 - As funções do Estado
-### Capítulo 07 - As formas de Estado e o exercício do poder político
-### Capítulo 08 - Princípios do Estado democrático
-### Capítulo 09 - Os partidos políticos
-### Capítulo 10 - O Estado constitucional
-### Capítulo 11 - Forças políticas
-### Capítulo 12 - Políticas públicas, governança e município
+### [Capítulo 01 - Introdução à Ciência Política](./capitulo-01-introducao-a-ciencia-politica.md)
+### [Capítulo 02 - A Questão Do Poder](./capitulo-02-a-questao-do-poder.md)
+### [Capítulo 03 - O Conceito De Estado](./capitulo-03-o-conceito-de-estado.md)
+### [Capítulo 04 - Finalidades E Elementos Do Estado](./capitulo-04-finalidades-e-elementos-do-estado.md)
+### [Capítulo 05 - Soberania Estatal](./capitulo-05-soberania-estatal.md)
+### [Capítulo 06 - As Funções Do Estado](./capitulo-06-as-funcoes-do-estado.md)
+### [Capítulo 07 - As Formas De Estado E O Exercício Do Poder Político](./capitulo-07-as-formas-de-estado-e-exercicio-poder-politico.md)
+### [Capítulo 08 - Princípios Do Estado Democrático](./capitulo-08-principios-do-estado-democratico.md)
+### [Capítulo 09 - Os Partidos Políticos](./capitulo-09-os-partidos-politicos.md)
+### [Capítulo 10 - O Estado Constitucional](./capitulo-10-o-estado-constitucional.md)
+### [Capítulo 11 - Forças Políticas](./capitulo-11-forças-politicas.md)
+### [Capítulo 12 - Políticas Públicas, Governança E Município](./capitulo-12-politicas-publicas-governanca-municipio.md)
 
 ## Licença
 
