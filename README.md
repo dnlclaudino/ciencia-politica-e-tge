@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
