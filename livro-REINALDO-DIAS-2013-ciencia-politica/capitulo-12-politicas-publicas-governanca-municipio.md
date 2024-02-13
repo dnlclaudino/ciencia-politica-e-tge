@@ -7,7 +7,7 @@
     </td>
     <td align="center" valign="top">
       <a href="./README.md">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
       </a>
     </td>
     <td align="center" valign="top">
