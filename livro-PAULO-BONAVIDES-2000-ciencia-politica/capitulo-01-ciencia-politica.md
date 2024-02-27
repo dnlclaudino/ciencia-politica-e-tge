@@ -21,11 +21,9 @@
   </tr>
 </table><br><br><br><br><br><br><br>
 
-<center><b>SUMÁRIO</b></center>
-
 # Capítulo 01 - Ciência Política
 
-<h2><b>SUMÁRIO</b></h2>
+<center><h2><b>SUMÁRIO</b></h2></center>
 
 <!-- TOC updateonsave:false -->
 
