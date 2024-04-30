@@ -13,7 +13,7 @@
   </tr>
 </table><br><br><br><br><br><br><br>
 
-# Ciência Política e Teoria Geral do Estado (TSE)
+# Ciência Política e Teoria Geral do Estado
 
 Repositório para Gestão do Conhecimento em Ciência Política.
 
